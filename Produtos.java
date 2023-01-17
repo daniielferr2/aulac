@@ -10,7 +10,7 @@ public class Produtos {
     String nome;
     Integer preco;
     String descricao;
-    String local;
+    String categoria;
     
     public Integer getId() {
         return id;
